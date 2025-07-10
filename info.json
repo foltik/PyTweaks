@@ -1,0 +1,9 @@
+{
+  "name": "PyTweaks",
+  "version": "1.0.0",
+  "title": "Foltik's PyTweaks",
+  "author": "foltik",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "elevated-rails", "Mini_Trains", "pypostprocessing"],
+  "description": "My tweaks to pYanodon's mods."
+}
